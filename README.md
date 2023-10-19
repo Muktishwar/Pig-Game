@@ -7,7 +7,7 @@ roll - If the player rolls a
 hold - The turn total is added to the player's score and it becomes the opponent's turn.
 
 ## Skills
-Javascript, HTML, CSS
+Javascript, HTML, CSS, DOM
 
 ## Screenshots
 ![Screenshot (98)](https://github.com/Muktishwar/Pig-Game/assets/84079853/734a3f7c-16fa-40e6-9108-0da175c2c21e)
